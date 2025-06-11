@@ -1,5 +1,7 @@
 # 🧪 Test Automation Practice Sites
 
+![image](https://github.com/user-attachments/assets/f2fd9fb4-fe9e-4087-8232-d97248305be2)
+
 This repository contains the best categorized demo websites for QA engineers who want to learn test automation, practice their skills, and develop test scenarios.  
 This list is continuously updated. Feel free to contribute by submitting a pull request (PR)! ⭐
 
