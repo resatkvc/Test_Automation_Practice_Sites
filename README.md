@@ -61,7 +61,6 @@ This list is continuously updated. Feel free to contribute by submitting a pull 
 | [randomuser.me](https://randomuser.me/) | Rastgele kullanıcı verisi üretimi ve API testi. |
 | [Countries GraphQL](https://countries.trevorblades.com/) | Ülke verileriyle GraphQL API testi. |
 
----
 
 ## 🔪 Selenium / Otomasyon Test Siteleri
 
