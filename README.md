@@ -26,6 +26,7 @@ This list is continuously updated. Feel free to contribute by submitting a pull 
 | [Polymer Shop](https://shop.polymer-project.org/) | Polymer framework’ü ile oluşturulmuş demo mağaza. |
 | [GreenKart](https://rahulshettyacademy.com/seleniumPractise/#/) | Selenium pratiği için geliştirildi. |
 | [React Shopping Cart (GitHub)](https://github.com/jeffersonRibeiro/react-shopping-cart) | React ile yazılmış e-ticaret demo projesi. |
+| [GoodDeal](https://delta-qa.com/playground/) | Spor giyim demo mağazası: zorunlu beden seçimi, kupon kodu, test kartlarıyla ödeme ve yerel select olmadan ülke listesi. Playwright, Cypress ve Selenium örnek testleri mevcut. |
 
 
 ## 📬 Form ve UI Bileşen Test Siteleri
